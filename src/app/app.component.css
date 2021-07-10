@@ -1,0 +1,17 @@
+.navbar-heading{
+    color: white;
+    padding-right: 1200px;
+}
+
+.btn-add{
+    background-color: rgb(37, 37, 37);
+    color: white;
+    
+}
+.btn-add:hover{
+    color: black;
+    background-color: white;
+}
+.container{
+    padding-top: 10px;
+}
